@@ -91,7 +91,7 @@ const contacts = [
     },
     {
         id: 3,
-        name: 'rodo',
+        name: 'Frodo',
         description: 'rie ama y sueña',
         avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99VBSnnohw28dRgJkxVFqJ6bDVJ74bHixvg&s',
         lastConnection: '18:26',
