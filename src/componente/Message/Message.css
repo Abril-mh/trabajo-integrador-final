@@ -1,0 +1,34 @@
+.message {
+    max-width: 60%;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 10px;
+    display: inline-block;
+    /* ✅ Solo ocupa el espacio necesario */
+    font-family: sans-serif;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+.yo {
+    background-color: #dcf8c6;
+    text-align: right;
+    align-self: flex-end;
+    margin-left: auto;
+    /* ✅ Lo empuja a la derecha */
+}
+
+.otro {
+    background-color: #ffffff;
+    text-align: left;
+    align-self: flex-start;
+    margin-right: auto;
+    /* ✅ Lo empuja a la izquierda */
+}
+
+.hora {
+    font-size: 0.75rem;
+    color: gray;
+    margin-top: 4px;
+    text-align: right;
+}

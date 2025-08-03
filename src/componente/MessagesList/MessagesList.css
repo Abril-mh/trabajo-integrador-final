@@ -1,0 +1,17 @@
+.chat-background {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("https://e0.pxfuel.com/wallpapers/722/711/desktop-wallpaper-rivendell-lord-of-the-rings-imladris.jpg ");
+    background-size: cover;
+    background-position: center;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+
+@media (max-width: 768px) {
+    .chat-background {
+        padding: 0.5rem;
+    }
+}
